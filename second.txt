@@ -1,3 +1,4 @@
 Hello git world!!
 /git add
 /git commit
+/git rm
